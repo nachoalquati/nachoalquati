@@ -1,8 +1,6 @@
 👋 Hi, I'm Ignacio Alquati.
 
-🌱 Currently working with Angular.JS, Node.JS, MySQL, DynamoDB, AWS, and MongoDB.
-
-💻 My Innpactia GitHub account 👉🏻  https://github.com/jamaroinnpactia
+🌱 Currently working with Angular.JS, Node.JS, Relational and non relational DBs, GitHub Actions, Docker and AWS.
 
 📚 I'm always learning and improving my skills.
 
